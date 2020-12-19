@@ -48,7 +48,7 @@ But be careful, each wall that you place, might cost yourself extra turns later 
 
 # Gamemodes
 Currently you can challenge someone with `!!challenge @theirTag#1234`.\
-You can also provide options to play with, e.g.:\
+You can also provide options to play with, e.g.:
 - `!!challenge @theirTag#1234 ranked` (this will add the presents to the game)
 - when `ranked` is enabled, you can add `nodms` so that the game will take part in the current channel and not in DM's.
 - `portals`, will add portals to the map that you can use to teleport around. You can't be "inside" of a portal, means, you have to specify where you want to go if you were to move out of the other portal, similar to jumping over a player.
