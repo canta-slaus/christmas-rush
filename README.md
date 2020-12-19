@@ -13,7 +13,7 @@ _Whose turn it is will be displayed at the bottom of the image._
 In the first turn, both users get to chose which column they would like to start on. To do that, simply reply with the column letter when it's your turn.\
 ![First turns](https://imgur.com/iJgvaED.png)\
 In this example, both users decided to start on `E`/`e`.\
-_The Grinch (red) starts at the bottom, while Santa (clue) starts at the top._\
+_The Grinch (red) starts at the bottom, while Santa (blue) starts at the top._\
 After that, each turn a user can either move or place a wall.
 
 ## Moving
