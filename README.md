@@ -1,6 +1,4 @@
-# WOK Christmas Competition
-
-**It's almost christmas and you forgot to buy presents for your family, so you rush over to Walmart but its... Karen - she is defending Walmart for her family and you MUST get past her or else your whole family will be very upset**
+# Minotaur
 
 # Goal of the game
 Each user starts on one side of the board, either at the very top row or at the very bottom row. The goal is to move to the other side. Means, if you started at the top, you need to move down and vice versa.\
@@ -55,11 +53,6 @@ You can also provide options to play with, e.g.:
 - `portals`, will add portals to the map that you can use to teleport around. You can't be "inside" of a portal, means, you have to specify where you want to go if you were to move out of the other portal, similar to jumping over a player.
 - `hammers`, will give both users one hammer. A hammer can be used to destroy a single 1x1 wall and consume the hammer. The syntax is `hw/ha/hs/hd`: `hw` will remove the wall above you, `ha` will remove the wall to your left, ... You have to stand next to the wall in order to destroy it.
 - `candies`, will add 1-3 candy canes randomly to the map. Upon collecting a candy cane, you get another turn. So you could move, to collect the candy cane, and then move again or maybe place a wall.
-
-# Developers
-- canta#5556
-- jis#2505
-- EmanSza#5474
 
 # Additional information
 All art (walls, tiles, presents, users, presents and candy canes) have been made by our team.
